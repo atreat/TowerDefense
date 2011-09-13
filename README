@@ -1,0 +1,8 @@
+This is the README file for this project.
+
+I originally created this project by following through with a tutorial I found here:
+
+http://www.iphonegametutorials.com/tag/objective-c/
+
+The most important thing to note is that this project is using the cocos2d API. Cocos2d is a great 2D game engine, but
+it can definitely be used for creating other kinds of apps. It is very well documented in itself, take a look.
