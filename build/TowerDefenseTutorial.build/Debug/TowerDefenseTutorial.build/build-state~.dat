@@ -1,0 +1,171 @@
+TTowerDefenseTutorial
+v7
+r1
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Default.png
+c000000004CE1388200000000000077AB
+t1289828482
+s30635
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Enemy1.png
+c000000004D9DD838000000000000DD39
+t1302190136
+s56633
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Enemy2.png
+c000000004D9DD84C000000000000CC3B
+t1302190156
+s52283
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Icon.png
+c000000004CE13882000000000000246F
+t1289828482
+s9327
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/MachineGunTurret.png
+c000000004D9DD752000000000000CF70
+t1302189906
+s53104
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Projectile.png
+c000000004D9E28CE000000000000BEE7
+t1302210766
+s48871
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/Range.png
+c000000004D9EE68A000000000000EA4B
+t1302259338
+s59979
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/TileMap.tmx
+c000000004D9E17040000000000000EFE
+t1302206212
+s3838
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/fps_images.png
+c000000004CE13882000000000000183B
+t1289828482
+s6203
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/hud.png
+c000000004D9DD1C2000000000000BF5F
+t1302188482
+s48991
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/meta_tiles.png
+c000000004BF29FFC00000000000000C8
+t1274191868
+s200
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/Resources/tmw_desert_spacing.png
+c000000004B6FFEC800000000000093C6
+t1265630920
+s37830
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Enemy1.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Enemy2.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/MachineGunTurret.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Projectile.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/Range.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/TileMap.tmx
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/fps_images.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/hud.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/meta_tiles.png
+t2
+s0
+
+N/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Resources/tmw_desert_spacing.png
+t2
+s0
+
+NResources/Info.plist
+c000000004CE1388200000000000003FE
+t1289828482
+s1022
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Enemy1.png Resources/Enemy1.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Enemy2.png Resources/Enemy2.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/MachineGunTurret.png Resources/MachineGunTurret.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Projectile.png Resources/Projectile.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/Range.png Resources/Range.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/TileMap.tmx Resources/TileMap.tmx
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/hud.png Resources/hud.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/meta_tiles.png Resources/meta_tiles.png
+r0
+
+CCpResource build/Debug/TowerDefenseTutorial.app/Contents/Resources/tmw_desert_spacing.png Resources/tmw_desert_spacing.png
+r0
+
+CProcessInfoPlistFile "/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app/Contents/Info.plist" Resources/Info.plist
+r0
+
+CTouch "/Users/Austin/Desktop/UVM/Self Projects/Xcode/Test/TowerDefense/TowerDefensePart3/build/Debug/TowerDefenseTutorial.app"
+r0
+
